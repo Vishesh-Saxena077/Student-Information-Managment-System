@@ -1,0 +1,23 @@
+#border
+{
+    height: 400px;
+    width: 500px;
+    border-style:dashed;
+    text-align: center;
+    border-color: white;
+    text-decoration: underline;
+    text-decoration-color: darkgoldenrod;
+    margin-left: 250px;
+    margin-top: 70px;
+}
+#comment
+{
+    height: 280px;
+    width: 300px;;
+   color: darkgoldenrod;
+    text-align: center;
+    border-style:dashed;
+    border-color:darkgoldenrod;
+    margin-left: 350px;
+    margin-top: -300px;
+}

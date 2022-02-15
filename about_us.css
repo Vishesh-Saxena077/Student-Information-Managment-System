@@ -1,0 +1,48 @@
+
+#u3
+{
+    height: 1050px;
+    width: 300px;
+    background-color: aliceblue;
+    border-top: 3px;
+    border-top-color: aliceblue;
+    border-bottom: 3px;
+    border-bottom-color: aliceblue;
+    border-style: groove;
+}
+
+#pic
+{
+  height: 95px;
+    width: 95px;
+    background-image: url('LogoOfGraphicEraUniversity.jpg');
+    border-style: solid;
+    border-color: black;
+    margin-top: -950px;
+    margin-left: 90px;
+     
+}
+
+#u4
+{
+    height: 500px;
+    width: 200px;
+    background-color: aliceblue;
+        color:black;
+    margin-left: 40px;
+    
+}
+#u10
+{
+    height:70px;
+    width: 1500px;
+    background-color:darkslategrey;
+    margin-top: 400px;
+}
+
+
+
+
+
+
+
